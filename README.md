@@ -17,5 +17,5 @@ A simple and responsive personal portfolio website built using **HTML5** and **C
 
 ### Run Locally
 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/portfolio-website.git
+
+git clone https://povijayraj.github.io/Portfolio-simple-website/
