@@ -1,0 +1,133 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.container {
+    padding: 50px;
+}
+
+.one {
+    background-color: #e5ebb2;
+    color: #35613d;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.one__contact {
+    background-color: aquamarine;
+    color: black;
+    text-decoration: none;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+
+.one__title {
+    font-size: 60px;
+}
+
+.one__desc {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.two,
+.three,
+.four,
+.five {
+    margin-top: 20px;
+}
+
+.two__desc,
+.three__desc,
+.four__desc,
+.five__desc {
+    margin-top: 20px;
+}
+
+li {
+    list-style: none;
+}
+
+.five {
+    background-color: #e5ebb2;
+    color: #35613d;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.five__desc a {
+    color: burlywood;
+    text-decoration: none;
+}
+
+.five__name {
+    padding-top: 10px;
+    color: black;
+}
+
+.three {
+    background-color: #f6a264;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.four {
+    background-color: #3e9bd2;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.contact-form {
+    margin-top: 20px;
+}
+
+.contact-form__name,
+.contact-form__email,
+.contact-form__textarea,
+.contact-form__submit {
+    margin-top: 20px;
+
+
+}
+
+.contact-form__name,
+.contact-form__email{
+padding: 10px;
+border: none;
+border-bottom: solid black 1px;
+}
+
+.contact-form__textarea {
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+.contact-form__submit{
+    border: none;
+    background-color: chartreuse;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+}
